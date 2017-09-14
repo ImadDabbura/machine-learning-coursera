@@ -9,7 +9,7 @@ This repository contains python implementations in the form of jupyter notebooks
 * Implement the algorithm to illustrate the concepts.
 * Conclusion in the form of key takeaways and things to consider when implementing the discussed algorithms.
 
-<h1 style="font-family: Georgia; font-size:2em;color:purple; font-style:bold"> Topics Covered</h1>
+<h2 style="font-family: Georgia; font-size:2em;color:purple; font-style:bold"> Topics Covered</h2>
 
 1. [Linear Regression](/notebooks/Linear-Regreesion.ipynb)
 2. [Logistic Regression](/notebooks/Logistic-Regression.ipynb)
