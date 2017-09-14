@@ -20,7 +20,7 @@ This repository contains python implementations in the form of jupyter notebooks
 7. [Unsupervised Learning]("./notebooks/Unsupervised-Learning.ipynb")
 8. [Anomaly Detection and Recommender Systems]("./notebooks/Anomaly-Detection_Recommender-Systems.ipynb")
 
-All data used in the notebooks can be found [here]("./data/").
+All data used in the notebooks can be found [here]("data/").
 
 I highly recommend downloading the notebooks to be able to work in your computing environment. Having the notebook locally allows you to run the code and see how is everything related to each other and maybe change some values to see how that would change the algorithm's output.
 
