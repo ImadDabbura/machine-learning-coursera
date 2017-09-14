@@ -11,12 +11,12 @@ This repository contains python implementations in the form of jupyter notebooks
 
 <h2 style="font-family: Georgia; font-size:2em;color:purple; font-style:bold"> Topics Covered</h2>
 
-1. [Linear Regression](/notebooks/Linear-Regreesion.ipynb)
+1. [Linear Regression](/notebooks/Linear-Regression.ipynb)
 2. [Logistic Regression](/notebooks/Logistic-Regression.ipynb)
 3. [Multi-class Classification](/notebooks/Multi-class-Classification.ipynb)
 4. [Neural Network Learning](/notebooks/Neural-Network.ipynb)
 5. [Bias-Variance Trade-off](/notebooks/Bias-Variance-Trade-off.ipynb)
-6. [Support Vector Machines](/notebooks/Support-Vactor-Machines.ipynb)
+6. [Support Vector Machines](/notebooks/Support-Vector-Machines.ipynb)
 7. [Unsupervised Learning](/notebooks/Unsupervised-Learning.ipynb)
 8. [Anomaly Detection and Recommender Systems](/notebooks/Anomaly-Detection_Recommender-Systems.ipynb)
 
