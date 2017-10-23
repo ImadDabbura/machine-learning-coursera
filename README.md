@@ -1,5 +1,7 @@
-<h1 style="font-family: Georgia; font-size:3em;color:#2462C0; font-style:bold"> Machine Learning</h1>
+# Machine Learning
+<p align="center">
 <img src = "./images/ml_image.png" style = "height:300px; width:350px"><br>
+</p>
 
 This repository contains python implementations in the form of jupyter notebooks for the material covered in *Machine Learning* course taught by Andrew Ng on Coursera. Each notebook will have the following structure:
 
@@ -9,16 +11,16 @@ This repository contains python implementations in the form of jupyter notebooks
 * Implement the algorithm to illustrate the concepts.
 * Conclusion in the form of key takeaways and things to consider when implementing the discussed algorithms.
 
-<h2 style="font-family: Georgia; font-size:2em;color:purple; font-style:bold"> Topics Covered</h2>
+## Topics Covered
 
-1. [Linear Regression](/notebooks/Linear-Regression.ipynb)
-2. [Logistic Regression](/notebooks/Logistic-Regression.ipynb)
-3. [Multi-class Classification](/notebooks/Multi-class-Classification.ipynb)
-4. [Neural Network](/notebooks/Neural-Network.ipynb)
-5. [Bias-Variance Trade-off](/notebooks/Bias-Variance-Trade-off.ipynb)
-6. [Support Vector Machines](/notebooks/Support-Vector-Machines.ipynb)
-7. [Unsupervised Learning](/notebooks/Unsupervised-Learning.ipynb)
-8. [Anomaly Detection and Recommender Systems](/notebooks/Anomaly-Detection_Recommender-Systems.ipynb)
+1. [Linear Regression](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Linear-Regression.ipynb)
+2. [Logistic Regression](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Logistic-Regression.ipynb)
+3. [Multi-class Classification](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Multi-class-Classification.ipynb)
+4. [Neural Network](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Neural-Network.ipynb)
+5. [Bias-Variance Trade-off](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Bias-Variance-Trade-off.ipynb)
+6. [Support Vector Machines](https://github.com/ImadDabbura/Machine-Learning/blob/master/notebooks/Support-Vector-Machines.ipynb)
+7. [Unsupervised Learning](https://github.com/ImadDabbura/Machine-Learning/blob/master/notebooks/Unsupervised-Learning.ipynb)
+8. [Anomaly Detection and Recommender Systems](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Anomaly-Detection_Recommender-Systems.ipynb)
 
 All data used in the notebooks can be found [here](data/).
 
