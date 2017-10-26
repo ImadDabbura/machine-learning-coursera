@@ -18,8 +18,8 @@ This repository contains python implementations in the form of jupyter notebooks
 3. [Multi-class Classification](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Multi-class-Classification.ipynb)
 4. [Neural Network](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Neural-Network.ipynb)
 5. [Bias-Variance Trade-off](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Bias-Variance-Trade-off.ipynb)
-6. [Support Vector Machines](https://github.com/ImadDabbura/Machine-Learning/blob/master/notebooks/Support-Vector-Machines.ipynb)
-7. [Unsupervised Learning](https://github.com/ImadDabbura/Machine-Learning/blob/master/notebooks/Unsupervised-Learning.ipynb)
+6. [Support Vector Machines](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Support-Vector-Machines.ipynb)
+7. [Unsupervised Learning](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Unsupervised-Learning.ipynb)
 8. [Anomaly Detection and Recommender Systems](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Anomaly-Detection_Recommender-Systems.ipynb)
 
 All data used in the notebooks can be found [here](data/).
