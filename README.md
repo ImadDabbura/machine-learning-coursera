@@ -15,7 +15,7 @@ This repository contains python implementations in the form of jupyter notebooks
 
 1. [Linear Regression](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Linear-Regression.ipynb)
 2. [Logistic Regression](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Logistic-Regression.ipynb)
-3. [Multi-class Classification](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Multi-class-Classification.ipynb)
+3. [Multi-class Classification with Logistic Regression](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Multi-class-Classification-with-Logistic-Regression.ipynb)
 4. [Neural Network](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Neural-Network.ipynb)
 5. [Bias-Variance Trade-off](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Bias-Variance-Trade-off.ipynb)
 6. [Support Vector Machines](https://nbviewer.jupyter.org/github/ImadDabbura/Machine-Learning/blob/master/notebooks/Support-Vector-Machines.ipynb)
